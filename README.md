@@ -53,6 +53,28 @@
   ```bash
   brew install steipete/tap/summarize
   ```
+- **[YouTube OneClick Timestamp](https://github.com/VoidLight00/obsidian-youtube-oneclick)** (필수) — 타임스탬프 클릭 시 노트 안 임베드 영상에서 해당 시간으로 점프
+
+### YouTube OneClick Timestamp 설치 (BRAT)
+
+이 플러그인이 없으면 타임스탬프 링크가 유튜브 외부로 이동합니다. **반드시 설치하세요.**
+
+1. **BRAT 설치** (이미 있으면 건너뛰기)
+   - Obsidian → 설정 → 커뮤니티 플러그인 → 찾아보기 → `BRAT` 검색 → 설치 → 활성화
+
+2. **YouTube OneClick Timestamp 추가**
+   - Obsidian → 설정 → BRAT → `Add Beta plugin`
+   - 아래 URL 입력:
+     ```
+     VoidLight00/obsidian-youtube-oneclick
+     ```
+   - `Add Plugin` 클릭
+
+3. **플러그인 활성화**
+   - 설정 → 커뮤니티 플러그인 → `YouTube OneClick Timestamp` 토글 ON
+
+4. **확인**
+   - 노트에서 `[play 03:30](https://youtube.com/watch?v=...)` 클릭 시 임베드 영상이 3:30으로 점프하면 성공! 🎉
 
 ## 🚀 설치
 

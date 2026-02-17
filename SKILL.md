@@ -17,6 +17,10 @@ description: 유튜브 링크를 보내면 summarize CLI로 트랜스크립트�
   ```bash
   brew install steipete/tap/summarize
   ```
+- **YouTube OneClick Timestamp** Obsidian 플러그인 (필수)
+  - BRAT으로 설치: `VoidLight00/obsidian-youtube-oneclick`
+  - 이 플러그인이 없으면 타임스탬프 클릭 시 유튜브 외부로 이동함
+  - 설치하면 노트 안 임베드 영상에서 해당 시간으로 점프
 
 ## 설정
 
